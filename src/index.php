@@ -1,1 +1,1 @@
-<?php echo '<p>Shared from local desktop</p>'; ?> 
+<?php echo '<p>This is my first php page running from docker instance.</p>'; ?> 
